@@ -1,0 +1,11 @@
+LU solver:
+
+The code implements LU decomposition with partial pivoting.
+
+Pivoting prevents division by zero and improves stability.
+
+It uses forward substitution on Ly = Pb.
+
+Then uses backward substitution on Ux = y.
+
+Final solution is x.

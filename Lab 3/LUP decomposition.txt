@@ -1,0 +1,17 @@
+LUP decomposition:
+
+This program computes the decomposition
+
+PA=LU
+
+where
+
+A is the input square matrix,
+
+P is a permutation matrix (row swaps),
+
+L is a lower triangular matrix (with 1s on the diagonal),
+
+U is an upper triangular matrix.
+
+This is basically Gaussian elimination with partial pivoting, rewritten in matrix form.
