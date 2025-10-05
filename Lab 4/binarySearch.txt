@@ -1,0 +1,9 @@
+The program assumes the list is sorted (as required by binary search).
+Binary search halves the search space at each step.
+
+
+If found, it prints the index.
+
+iterativeBinarySearch() uses a loop (while) to search.
+
+recursiveBinarySearch() calls itself until the key is found or the search space is exhausted.

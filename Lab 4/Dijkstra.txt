@@ -1,0 +1,9 @@
+Initialize distances: All distances are set to infinity except the source.
+
+Pick the minimum distance vertex: Select a vertex that has the smallest tentative distance and hasn’t been visited yet.
+
+Update distances: Checks all the neighbors of this vertex and update their distances if a shorter path is found.
+
+Repeat: Do this until all vertices are visited.
+
+Prints result: Distances from the source to all vertices.

@@ -1,0 +1,8 @@
+This program takes dynamic graph input — works for any number of vertices and edges.
+
+Computes all-pairs shortest paths using Floyd-Warshall.
+
+Path reconstruction — prints the actual path from source to destination.
+
+Negative cycle detection — reports if the graph contains negative weight cycles.
+

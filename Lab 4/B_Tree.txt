@@ -1,0 +1,9 @@
+This program implements a B-Tree data structure in C that supports:
+
+1) Insertion of keys
+
+2) Deletion of keys
+
+3) Traversal (inorder listing of keys)
+
+Printing of the B-Tree in a tree-like format.

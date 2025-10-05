@@ -1,0 +1,2 @@
+In Quick Sort, the choice of pivot decides the balance of partitions. If the pivot is poorly chosen, we get skewed partitions and O(n²) time. Using median-of-three (first, middle, last) gives a pivot closer to the true median, reducing the chance of unbalanced partitions. This improves average performance and makes Quick Sort more robust on real-world data.
+

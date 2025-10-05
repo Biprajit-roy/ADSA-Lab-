@@ -1,0 +1,5 @@
+The program takes input from the user.
+
+User can select sorting method (Quick, Merge, or Heap Sort).
+
+Prints sorted array in ascending order.

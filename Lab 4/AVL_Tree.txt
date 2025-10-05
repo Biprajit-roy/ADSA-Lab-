@@ -1,0 +1,6 @@
+An AVL Tree is a self-balancing Binary Search Tree (BST).
+For every node, the difference in height between its left and right subtrees (called balance factor) must be -1, 0, or +1.
+
+After each insert or delete operation, the tree may become unbalanced — so we perform rotations to restore balance.
+
+Rotations are used to rebalance the tree when it becomes unbalanced.

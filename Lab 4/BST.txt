@@ -1,0 +1,7 @@
+The program uses a struct Node to define BST nodes.
+
+insert() for adding elements.
+
+deleteNode() for deletion (handles leaf, one child, and two children cases).
+
+inorder(), preorder(), postorder() for traversals.
